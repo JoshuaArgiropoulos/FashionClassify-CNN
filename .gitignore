@@ -1,3 +1,5 @@
 archive/
 
 venv/
+
+fashion_model.pth
