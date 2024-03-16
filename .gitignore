@@ -3,3 +3,7 @@ archive/
 venv/
 
 fashion_model.pth
+
+fashion_Aug.pth
+
+fashion_dropout.pth
